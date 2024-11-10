@@ -1,0 +1,94 @@
+body,h1, h2, h3, p, ul, li { 
+    margin: 0; 
+    padding: 0; 
+     
+   } 
+   body{
+    background-image: url("showroomwatch.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+   }
+   nav { 
+    background-color: #0c0000; 
+    color: #fff; 
+     text-align: center;
+    padding: 15px;
+    
+   } 
+   ul,h1,li { 
+
+    display: inline; 
+   }
+
+
+   h2,h3,p{
+    font-size: 260%;
+   }
+    ul { 
+    
+    margin-left: 60%;
+   } 
+   nav a { 
+    text-decoration: none; 
+    color: #fff; 
+   } 
+   .home { 
+    background-image: url('sjpg'); 
+    background-size: cover; 
+    color: rgb(246, 238, 238); 
+    text-align: center; 
+    padding: 100px; 
+   } 
+   .services { 
+    text-align: center;
+   color: #eae9e9;
+    padding: 40px; 
+   } 
+   .service { 
+    margin: 20px; 
+   } 
+   
+   
+   .box{ 
+    border-color: #0c0000;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 235px;
+ } 
+
+ .box:hover{
+    background-color: #eae9e9;
+    color: #333;
+    cursor: pointer;
+
+ }
+ 
+
+
+
+
+   .contact { 
+    background-color: #130101f4;  padding: 40px; 
+    text-align: center; 
+    color: aliceblue;
+   } 
+   form,table { 
+    max-width: 400px; 
+    margin:  0 auto ; 
+   } 
+   label,tr,td, input, textarea { 
+    display: inline-block; 
+    margin: 10px 0; 
+   } 
+   button { 
+    background-color: #333;  color: #fff; 
+    padding: 10px 20px;  border: none; 
+    cursor: pointer; 
+   } 
+   footer { 
+    background-color: #333;  color: #fff; 
+    text-align: center; 
+    padding: 10px; 
+   }
+   
